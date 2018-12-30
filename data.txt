@@ -1,0 +1,11 @@
+hello | hi, how has your day been? | no
+hello, how has your day been? | its been going good, how about you? | yes
+good, and you? | my day has been going well too. | yes
+what are you doing? | im baking a cake, do you want some? | yes
+hola | do you speak spanish? cause i dont | no
+do you feel? | no i dont feel | yes
+how are you? | my cpu usage is fairly low so i guess that means i am "chill" | yes
+how old are you? | i do not count age, but i was 'created' in 2018 so fairly new | yes
+why are you stupid | thats not nice | yes
+stupid | thats not nice, why dont you go say that to someone in real life and see how that goes? | no
+hi | hi, how has your day been? | no
