@@ -1,6 +1,6 @@
 import time
 def save(text, text2, q = "no"):
-    with open("data.txt", "a") as f:
+    with open("stored/data.txt", "a") as f:
         f.write(f"\n{text} | {text2} | {q}\n")
 
 #print("""
